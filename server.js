@@ -17,7 +17,7 @@ app.use('/Image', express.static(path.join(__dirname, 'Image')));
 
 // --- Serve HTML Page ---
 app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, 'index.HTML'));
+    res.sendFile(path.join(__dirname, 'index.html'));
 });
 
 // --- Fetch Sensor Readings ---
