@@ -1,0 +1,257 @@
+{
+  "device_status": {
+    "active_duration_ms": 307379,
+    "sleep_duration_seconds": 300,
+    "sleep_timestamp": "2025-09-18 15:13:04",
+    "status": "Woke from sleep",
+    "wake_timestamp": "2025-09-18 15:15:37"
+  },
+  "history_dashboard": {
+    "2025-09": {
+      "17": {
+        "1440840936": {
+          "lidar_avg": 327.76636,
+          "timestamp": 1440840936,
+          "ultrasonic_avg": 326
+        },
+        "1441806936": {
+          "lidar_avg": 694.26923,
+          "timestamp": 1441806936,
+          "ultrasonic_avg": 68.33334
+        },
+        "1442176936": {
+          "lidar_avg": 775.97223,
+          "timestamp": 1442176936,
+          "ultrasonic_avg": 25
+        },
+        "1443776936": {
+          "lidar_avg": 521.7193,
+          "timestamp": 1443776936,
+          "ultrasonic_avg": 220
+        },
+        "1444144936": {
+          "lidar_avg": 819,
+          "timestamp": 1444144936,
+          "ultrasonic_avg": 29
+        },
+        "1446363936": {
+          "lidar_avg": 3,
+          "timestamp": 1446363936,
+          "ultrasonic_avg": 26.33333
+        },
+        "1458540936": {
+          "lidar_avg": 782.70081,
+          "timestamp": 1458540936,
+          "ultrasonic_avg": 38
+        },
+        "1482260936": {
+          "lidar_avg": 672.49194,
+          "timestamp": 1482260936,
+          "ultrasonic_avg": 26
+        },
+        "1482638936": {
+          "lidar_avg": 30.63983,
+          "timestamp": 1482638936,
+          "ultrasonic_avg": 41.28571
+        }
+      },
+      "18": {
+        "1487159936": {
+          "lidar_avg": 206.77174,
+          "timestamp": 1487159936,
+          "ultrasonic_avg": 38.93333
+        },
+        "1487472936": {
+          "lidar_avg": 40,
+          "timestamp": 1487472936,
+          "ultrasonic_avg": 59
+        },
+        "1487764936": {
+          "lidar_avg": 499.44336,
+          "timestamp": 1487764936,
+          "ultrasonic_avg": 59.24
+        },
+        "1488668936": {
+          "lidar_avg": 819,
+          "timestamp": 1488668936,
+          "ultrasonic_avg": 56.4375
+        },
+        "1488965936": {
+          "lidar_avg": 473.5986,
+          "timestamp": 1488965936,
+          "ultrasonic_avg": 51.57143
+        },
+        "1489271936": {
+          "lidar_avg": 39,
+          "timestamp": 1489271936,
+          "ultrasonic_avg": 60
+        },
+        "1491707936": {
+          "lidar_avg": 797.51111,
+          "lidar_binary_level": "Level 2 (>80%)",
+          "timestamp": 1491707936,
+          "ultrasonic_avg": 58.59375,
+          "ultrasonic_binary_level": "Level 2 (>80%)"
+        },
+        "1492034936": {
+          "lidar_avg": 778.52631,
+          "lidar_binary_level": "Level 2 (>80%)",
+          "timestamp": 1492034936,
+          "ultrasonic_avg": 44.5,
+          "ultrasonic_binary_level": "Level 2 (>80%)"
+        },
+        "1493850936": {
+          "lidar_avg": 819,
+          "lidar_binary_level": "Level 2 (>80%)",
+          "timestamp": 1493850936,
+          "ultrasonic_avg": 58,
+          "ultrasonic_binary_level": "Level 2 (>80%)"
+        },
+        "1496768936": {
+          "lidar_avg": 235.56223,
+          "lidar_binary_level": "Level 2 (>80%)",
+          "timestamp": 1496768936,
+          "ultrasonic_avg": 62,
+          "ultrasonic_binary_level": "Level 2 (>80%)"
+        },
+        "1497276936": {
+          "lidar_avg": 61.28571,
+          "lidar_binary_level": "Level 2 (>80%)",
+          "timestamp": 1497276936,
+          "ultrasonic_avg": 60.66667,
+          "ultrasonic_binary_level": "Level 2 (>80%)"
+        },
+        "1497609936": {
+          "lidar_avg": 18.84034,
+          "lidar_binary_level": "Level 1 (<80%)",
+          "timestamp": 1497609936,
+          "ultrasonic_avg": 72.71429,
+          "ultrasonic_binary_level": "Level 2 (>80%)"
+        },
+        "1497931936": {
+          "lidar_avg": 17.7735,
+          "lidar_binary_level": "Level 1 (<80%)",
+          "timestamp": 1497931936,
+          "ultrasonic_avg": 26.5,
+          "ultrasonic_binary_level": "Level 1 (<80%)"
+        },
+        "1498353936": {
+          "lidar_avg": 17.2265,
+          "lidar_binary_level": "Level 1 (<80%)",
+          "timestamp": 1498353936,
+          "ultrasonic_avg": 26,
+          "ultrasonic_binary_level": "Level 1 (<80%)"
+        },
+        "1498736936": {
+          "lidar_avg": 819,
+          "lidar_binary_level": "Level 2 (>80%)",
+          "timestamp": 1498736936,
+          "ultrasonic_avg": 25.51613,
+          "ultrasonic_binary_level": "Level 1 (<80%)"
+        },
+        "1499050936": {
+          "lidar_avg": 819,
+          "lidar_binary_level": "Level 2 (>80%)",
+          "timestamp": 1499050936,
+          "ultrasonic_avg": 25.5,
+          "ultrasonic_binary_level": "Level 1 (<80%)"
+        },
+        "1500310936": {
+          "lidar_avg": 697.92963,
+          "lidar_binary_level": "Level 2 (>80%)",
+          "timestamp": 1500310936,
+          "ultrasonic_avg": 34.66667,
+          "ultrasonic_binary_level": "Level 2 (>80%)"
+        },
+        "1501776936": {
+          "lidar_avg": 546.80182,
+          "lidar_binary_level": "Level 2 (>80%)",
+          "timestamp": 1501776936,
+          "ultrasonic_avg": 33.66667,
+          "ultrasonic_binary_level": "Level 2 (>80%)"
+        },
+        "1504397936": {
+          "lidar_avg": 694.83331,
+          "lidar_binary_level": "Level 2 (>80%)",
+          "timestamp": 1504397936,
+          "ultrasonic_avg": 51.36364,
+          "ultrasonic_binary_level": "Level 2 (>80%)"
+        },
+        "1505308936": {
+          "lidar_avg": 771.38007,
+          "lidar_binary_level": "Level 2 (>80%)",
+          "timestamp": 1505308936,
+          "ultrasonic_avg": 79,
+          "ultrasonic_binary_level": "Level 2 (>80%)"
+        },
+        "1521836936": {
+          "lidar_avg": 45.76829,
+          "lidar_binary_level": "Level 1 (<80%)",
+          "timestamp": 1521836936,
+          "ultrasonic_avg": 78.5,
+          "ultrasonic_binary_level": "Level 1 (<80%)"
+        },
+        "1523261936": {
+          "lidar_avg": 6.05,
+          "lidar_binary_level": "Level 1 (<80%)",
+          "timestamp": 1523261936,
+          "ultrasonic_avg": 95,
+          "ultrasonic_binary_level": "Level 2 (≥80%)"
+        },
+        "1523865936": {
+          "lidar_avg": 4.01351,
+          "lidar_binary_level": "Level 1 (<80%)",
+          "timestamp": 1523865936,
+          "ultrasonic_avg": 25,
+          "ultrasonic_binary_level": "Level 1 (<80%)"
+        },
+        "1525394936": {
+          "lidar_avg": 4.11628,
+          "lidar_binary_level": "Level 1 (<80%)",
+          "timestamp": 1525394936,
+          "ultrasonic_avg": 26.5,
+          "ultrasonic_binary_level": "Level 1 (<80%)"
+        },
+        "1529984936": {
+          "lidar_avg": 4.0996,
+          "lidar_binary_level": "Level 1 (<80%)",
+          "timestamp": 1529984936,
+          "ultrasonic_avg": 26.15385,
+          "ultrasonic_binary_level": "Level 1 (<80%)"
+        },
+        "1536294936": {
+          "lidar_avg": 4.84146,
+          "lidar_binary_level": "Level 1 (<80%)",
+          "timestamp": 1536294936,
+          "ultrasonic_avg": 32.73529,
+          "ultrasonic_binary_level": "Level 1 (<80%)"
+        },
+        "1536958936": {
+          "lidar_avg": 403.57364,
+          "lidar_binary_level": "Level 2 (≥80%)",
+          "timestamp": 1536958936,
+          "ultrasonic_avg": 25,
+          "ultrasonic_binary_level": "Level 1 (<80%)"
+        },
+        "1537951936": {
+          "lidar_avg": 716.70166,
+          "timestamp": 1537951936,
+          "ultrasonic_avg": 38.63044
+        }
+      }
+    }
+  },
+  "sensor_levels": {
+    "Binary_Lidar_Level": "Level 1 (<80%)",
+    "Binary_Ultrasonic_Level": "NO_ECHO",
+    "Ultrasonic_readings": "None"
+  },
+  "sensor_readings": {
+    "Lidar_readings": {
+      "value": 819
+    },
+    "Ultrasonic_readings": {
+      "value": 32
+    }
+  }
+}
